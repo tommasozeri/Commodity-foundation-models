@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+pilota/cache/
+paper_en/
+.ipynb_checkpoints/
+.DS_Store

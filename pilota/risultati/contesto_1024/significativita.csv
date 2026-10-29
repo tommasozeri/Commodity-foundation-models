@@ -1,0 +1,29 @@
+compito,h,modello,asset,meglio (BH),peggio (BH),p<0.05 senza correzione
+prezzo,1,TimesFM-3,15,4,0,5
+prezzo,1,Timestral-209M,15,10,0,10
+prezzo,1,Timestral-28M,15,8,0,7
+prezzo,5,TimesFM-3,15,0,0,2
+prezzo,5,Timestral-209M,15,8,0,8
+prezzo,5,Timestral-28M,15,8,0,7
+prezzo,20,TimesFM-3,15,0,0,1
+prezzo,20,Timestral-209M,15,0,0,3
+prezzo,20,Timestral-28M,15,0,0,1
+rendimento,1,GARCH-t,15,6,0,6
+rendimento,1,TimesFM-3,15,0,0,2
+rendimento,1,Timestral-209M,15,3,0,4
+rendimento,1,Timestral-28M,15,1,0,2
+volatilita,1,Media 22g,12,0,10,6
+volatilita,1,Random walk,12,0,12,10
+volatilita,1,TimesFM-3,12,1,0,1
+volatilita,1,Timestral-209M,12,1,0,1
+volatilita,1,Timestral-28M,12,1,0,1
+volatilita,5,Media 22g,12,0,4,4
+volatilita,5,Random walk,12,0,11,11
+volatilita,5,TimesFM-3,12,0,0,1
+volatilita,5,Timestral-209M,12,0,0,1
+volatilita,5,Timestral-28M,12,0,0,1
+volatilita,20,Media 22g,12,0,1,2
+volatilita,20,Random walk,12,0,11,10
+volatilita,20,TimesFM-3,12,0,0,1
+volatilita,20,Timestral-209M,12,0,0,0
+volatilita,20,Timestral-28M,12,0,0,0

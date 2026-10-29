@@ -1,0 +1,26 @@
+asset fut,modello,CRPS/RW h=1 fut,CRPS/RW h=5 fut,CRPS/RW h=20 fut,pinball/SS fut,violazioni VaR10 fut,coppia,asset spot,CRPS/RW h=1 spot,CRPS/RW h=5 spot,CRPS/RW h=20 spot,pinball/SS spot,violazioni VaR10 spot
+Benzina,Chronos-2,1.0024,0.9899,0.9575,0.9877,0.0975,Benzina,Benzina spot,1.0073,1.0006,0.9811,0.9882,0.1087
+Benzina,GARCH-t,,,,0.9902,0.0946,Benzina,Benzina spot,,,,0.9884,0.1030
+Benzina,TimesFM-3,0.9799,0.9654,0.9412,0.9911,0.0819,Benzina,Benzina spot,0.9782,0.9790,0.9621,0.9945,0.0987
+Benzina,Timestral-209M,0.9702,0.9557,0.9291,0.9853,0.0862,Benzina,Benzina spot,0.9704,0.9708,0.9584,0.9857,0.0987
+Benzina,Timestral-28M,0.9739,0.9616,0.9454,0.9879,0.0847,Benzina,Benzina spot,0.9725,0.9682,0.9613,0.9895,0.1016
+Brent,Chronos-2,0.9928,0.9934,0.9858,0.9833,0.1140,Brent,Brent spot,0.9905,0.9917,0.9832,0.9835,0.1183
+Brent,GARCH-t,,,,0.9771,0.1053,Brent,Brent spot,,,,0.9805,0.1099
+Brent,TimesFM-3,0.9703,0.9630,0.9659,0.9835,0.0851,Brent,Brent spot,0.9636,0.9549,0.9651,0.9896,0.0873
+Brent,Timestral-209M,0.9661,0.9625,0.9672,0.9782,0.0909,Brent,Brent spot,0.9628,0.9606,0.9652,0.9793,0.0915
+Brent,Timestral-28M,0.9652,0.9615,0.9717,0.9800,0.0851,Brent,Brent spot,0.9595,0.9560,0.9674,0.9823,0.0930
+Gas naturale,Chronos-2,1.0061,0.9652,0.9057,0.9936,0.1116,Gas naturale,Gas naturale spot,0.8864,0.7570,0.7336,0.9810,0.1102
+Gas naturale,GARCH-t,,,,1.0097,0.1045,Gas naturale,Gas naturale spot,,,,0.9879,0.1273
+Gas naturale,TimesFM-3,0.9886,0.9762,0.9393,0.9993,0.1116,Gas naturale,Gas naturale spot,0.8605,0.7491,0.7492,0.9474,0.1073
+Gas naturale,Timestral-209M,0.9732,0.9543,0.9220,0.9935,0.1102,Gas naturale,Gas naturale spot,0.8424,0.7452,0.7323,0.9566,0.1016
+Gas naturale,Timestral-28M,0.9826,0.9461,0.9096,0.9941,0.0975,Gas naturale,Gas naturale spot,0.8757,0.7364,0.7153,0.9451,0.1044
+Gasolio,Chronos-2,1.0080,1.0133,0.9940,0.9826,0.1003,Gasolio,Gasolio spot,1.0058,0.9910,0.9733,0.9883,0.1073
+Gasolio,GARCH-t,,,,0.9802,0.1031,Gasolio,Gasolio spot,,,,0.9876,0.1087
+Gasolio,TimesFM-3,0.9681,0.9897,0.9746,0.9875,0.0890,Gasolio,Gasolio spot,0.9699,0.9645,0.9497,0.9897,0.0887
+Gasolio,Timestral-209M,0.9621,0.9830,0.9808,0.9814,0.0946,Gasolio,Gasolio spot,0.9641,0.9647,0.9605,0.9857,0.1001
+Gasolio,Timestral-28M,0.9701,0.9874,0.9873,0.9841,0.0918,Gasolio,Gasolio spot,0.9692,0.9702,0.9675,0.9870,0.0930
+WTI,Chronos-2,1.0002,0.9798,0.9815,0.9891,0.1130,WTI,WTI spot,1.0107,0.9770,0.9852,0.9910,0.1073
+WTI,GARCH-t,,,,0.9837,0.1017,WTI,WTI spot,,,,0.9851,0.1044
+WTI,TimesFM-3,0.9766,0.9516,0.9653,0.9909,0.0904,WTI,WTI spot,0.9825,0.9560,0.9610,0.9934,0.0944
+WTI,Timestral-209M,0.9729,0.9530,0.9641,0.9852,0.0946,WTI,WTI spot,0.9744,0.9572,0.9651,0.9877,0.0944
+WTI,Timestral-28M,0.9699,0.9505,0.9601,0.9861,0.0918,WTI,WTI spot,0.9733,0.9543,0.9583,0.9886,0.0930

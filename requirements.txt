@@ -1,0 +1,14 @@
+numpy==2.5.4
+pandas==2.3.3
+scipy==1.18.1
+matplotlib==3.11.2
+torch==2.14.1
+arch==8.0.0
+statsforecast==2.1.1
+yfinance==1.7.0
+xlrd==2.0.2
+transformers==5.21.0
+huggingface-hub==2.3.0
+chronos-forecasting==2.3.2
+timestral @ git+https://github.com/mistralai/timestral.git@a534bdbd244d64f3d9d743f46c7bf6fc330ed4ff
+timesfm[torch] @ git+https://github.com/google-research/timesfm.git@e51928e27119cb17bebc005be2696b75e0a9e688

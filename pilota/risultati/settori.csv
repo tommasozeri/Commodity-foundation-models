@@ -1,0 +1,201 @@
+compito,h,modello,gruppo,rel,vince
+prezzo,1,ARIMA,Cereali,1.0198,0/3
+prezzo,1,ARIMA,Energia,0.9980,3/5
+prezzo,1,ARIMA,Metalli industriali,1.0019,0/1
+prezzo,1,ARIMA,Metalli preziosi,0.9812,2/2
+prezzo,1,ARIMA,Soft e bestiame,0.9953,3/4
+prezzo,1,Chronos-2,Cereali,1.0314,0/3
+prezzo,1,Chronos-2,Energia,1.0019,1/5
+prezzo,1,Chronos-2,Metalli industriali,1.0520,0/1
+prezzo,1,Chronos-2,Metalli preziosi,1.3602,0/2
+prezzo,1,Chronos-2,Soft e bestiame,1.1338,0/4
+prezzo,1,ETS,Cereali,1.0125,0/3
+prezzo,1,ETS,Energia,0.9875,5/5
+prezzo,1,ETS,Metalli industriali,1.0056,0/1
+prezzo,1,ETS,Metalli preziosi,0.9686,2/2
+prezzo,1,ETS,Soft e bestiame,0.9892,3/4
+prezzo,1,TimesFM-3,Cereali,0.9952,1/3
+prezzo,1,TimesFM-3,Energia,0.9766,5/5
+prezzo,1,TimesFM-3,Metalli industriali,0.9997,1/1
+prezzo,1,TimesFM-3,Metalli preziosi,0.9700,1/2
+prezzo,1,TimesFM-3,Soft e bestiame,0.9935,3/4
+prezzo,1,Timestral-209M,Cereali,0.9908,3/3
+prezzo,1,Timestral-209M,Energia,0.9689,5/5
+prezzo,1,Timestral-209M,Metalli industriali,0.9864,1/1
+prezzo,1,Timestral-209M,Metalli preziosi,0.9628,2/2
+prezzo,1,Timestral-209M,Soft e bestiame,0.9857,3/4
+prezzo,1,Timestral-28M,Cereali,0.9937,2/3
+prezzo,1,Timestral-28M,Energia,0.9723,5/5
+prezzo,1,Timestral-28M,Metalli industriali,0.9911,1/1
+prezzo,1,Timestral-28M,Metalli preziosi,0.9645,2/2
+prezzo,1,Timestral-28M,Soft e bestiame,0.9873,4/4
+prezzo,5,ARIMA,Cereali,1.0075,0/3
+prezzo,5,ARIMA,Energia,0.9872,4/5
+prezzo,5,ARIMA,Metalli industriali,0.9983,1/1
+prezzo,5,ARIMA,Metalli preziosi,0.9690,2/2
+prezzo,5,ARIMA,Soft e bestiame,0.9946,3/4
+prezzo,5,Chronos-2,Cereali,1.0051,1/3
+prezzo,5,Chronos-2,Energia,0.9882,4/5
+prezzo,5,Chronos-2,Metalli industriali,1.0181,0/1
+prezzo,5,Chronos-2,Metalli preziosi,1.1067,0/2
+prezzo,5,Chronos-2,Soft e bestiame,1.0108,1/4
+prezzo,5,ETS,Cereali,1.0013,1/3
+prezzo,5,ETS,Energia,0.9808,5/5
+prezzo,5,ETS,Metalli industriali,1.0046,0/1
+prezzo,5,ETS,Metalli preziosi,0.9673,2/2
+prezzo,5,ETS,Soft e bestiame,0.9888,4/4
+prezzo,5,TimesFM-3,Cereali,0.9830,3/3
+prezzo,5,TimesFM-3,Energia,0.9691,5/5
+prezzo,5,TimesFM-3,Metalli industriali,1.0085,0/1
+prezzo,5,TimesFM-3,Metalli preziosi,0.9643,2/2
+prezzo,5,TimesFM-3,Soft e bestiame,0.9881,4/4
+prezzo,5,Timestral-209M,Cereali,0.9775,3/3
+prezzo,5,Timestral-209M,Energia,0.9616,5/5
+prezzo,5,Timestral-209M,Metalli industriali,0.9965,1/1
+prezzo,5,Timestral-209M,Metalli preziosi,0.9559,2/2
+prezzo,5,Timestral-209M,Soft e bestiame,0.9839,3/4
+prezzo,5,Timestral-28M,Cereali,0.9792,3/3
+prezzo,5,Timestral-28M,Energia,0.9613,5/5
+prezzo,5,Timestral-28M,Metalli industriali,1.0059,0/1
+prezzo,5,Timestral-28M,Metalli preziosi,0.9682,2/2
+prezzo,5,Timestral-28M,Soft e bestiame,0.9874,3/4
+prezzo,20,ARIMA,Cereali,0.9712,3/3
+prezzo,20,ARIMA,Energia,0.9722,4/5
+prezzo,20,ARIMA,Metalli industriali,0.9887,1/1
+prezzo,20,ARIMA,Metalli preziosi,1.0285,0/2
+prezzo,20,ARIMA,Soft e bestiame,0.9993,2/4
+prezzo,20,Chronos-2,Cereali,0.9659,2/3
+prezzo,20,Chronos-2,Energia,0.9644,5/5
+prezzo,20,Chronos-2,Metalli industriali,0.9895,1/1
+prezzo,20,Chronos-2,Metalli preziosi,1.1005,0/2
+prezzo,20,Chronos-2,Soft e bestiame,0.9875,3/4
+prezzo,20,ETS,Cereali,0.9640,3/3
+prezzo,20,ETS,Energia,0.9690,5/5
+prezzo,20,ETS,Metalli industriali,0.9965,1/1
+prezzo,20,ETS,Metalli preziosi,0.9716,2/2
+prezzo,20,ETS,Soft e bestiame,0.9795,4/4
+prezzo,20,TimesFM-3,Cereali,0.9508,3/3
+prezzo,20,TimesFM-3,Energia,0.9572,5/5
+prezzo,20,TimesFM-3,Metalli industriali,1.0064,0/1
+prezzo,20,TimesFM-3,Metalli preziosi,0.9611,1/2
+prezzo,20,TimesFM-3,Soft e bestiame,0.9590,4/4
+prezzo,20,Timestral-209M,Cereali,0.9446,3/3
+prezzo,20,Timestral-209M,Energia,0.9524,5/5
+prezzo,20,Timestral-209M,Metalli industriali,0.9935,1/1
+prezzo,20,Timestral-209M,Metalli preziosi,0.9694,1/2
+prezzo,20,Timestral-209M,Soft e bestiame,0.9617,4/4
+prezzo,20,Timestral-28M,Cereali,0.9446,3/3
+prezzo,20,Timestral-28M,Energia,0.9544,5/5
+prezzo,20,Timestral-28M,Metalli industriali,0.9943,1/1
+prezzo,20,Timestral-28M,Metalli preziosi,0.9780,1/2
+prezzo,20,Timestral-28M,Soft e bestiame,0.9685,4/4
+rendimento,1,Chronos-2,Cereali,0.9973,2/3
+rendimento,1,Chronos-2,Energia,0.9873,5/5
+rendimento,1,Chronos-2,Metalli industriali,0.9963,1/1
+rendimento,1,Chronos-2,Metalli preziosi,0.9855,2/2
+rendimento,1,Chronos-2,Soft e bestiame,0.9965,2/4
+rendimento,1,EGARCH-t,Cereali,0.9966,3/3
+rendimento,1,EGARCH-t,Energia,0.9867,5/5
+rendimento,1,EGARCH-t,Metalli industriali,0.9973,1/1
+rendimento,1,EGARCH-t,Metalli preziosi,0.9833,2/2
+rendimento,1,EGARCH-t,Soft e bestiame,0.9948,4/4
+rendimento,1,GARCH-t,Cereali,0.9970,3/3
+rendimento,1,GARCH-t,Energia,0.9881,4/5
+rendimento,1,GARCH-t,Metalli industriali,1.0076,0/1
+rendimento,1,GARCH-t,Metalli preziosi,0.9859,2/2
+rendimento,1,GARCH-t,Soft e bestiame,0.9956,4/4
+rendimento,1,GJR-GARCH-t,Cereali,0.9973,2/3
+rendimento,1,GJR-GARCH-t,Energia,0.9890,4/5
+rendimento,1,GJR-GARCH-t,Metalli industriali,1.0074,0/1
+rendimento,1,GJR-GARCH-t,Metalli preziosi,0.9836,2/2
+rendimento,1,GJR-GARCH-t,Soft e bestiame,0.9959,3/4
+rendimento,1,TimesFM-3,Cereali,0.9961,2/3
+rendimento,1,TimesFM-3,Energia,0.9904,5/5
+rendimento,1,TimesFM-3,Metalli industriali,0.9979,1/1
+rendimento,1,TimesFM-3,Metalli preziosi,0.9869,2/2
+rendimento,1,TimesFM-3,Soft e bestiame,0.9969,3/4
+rendimento,1,Timestral-209M,Cereali,0.9953,3/3
+rendimento,1,Timestral-209M,Energia,0.9847,5/5
+rendimento,1,Timestral-209M,Metalli industriali,0.9946,1/1
+rendimento,1,Timestral-209M,Metalli preziosi,0.9820,2/2
+rendimento,1,Timestral-209M,Soft e bestiame,0.9950,4/4
+rendimento,1,Timestral-28M,Cereali,0.9959,3/3
+rendimento,1,Timestral-28M,Energia,0.9864,5/5
+rendimento,1,Timestral-28M,Metalli industriali,0.9934,1/1
+rendimento,1,Timestral-28M,Metalli preziosi,0.9805,2/2
+rendimento,1,Timestral-28M,Soft e bestiame,0.9964,4/4
+volatilita,1,Chronos-2,Cereali,1.0147,1/3
+volatilita,1,Chronos-2,Energia,1.0205,1/5
+volatilita,1,Chronos-2,Metalli industriali,1.1893,0/1
+volatilita,1,Chronos-2,Metalli preziosi,1.0088,0/1
+volatilita,1,Chronos-2,Soft e bestiame,1.0071,1/2
+volatilita,1,Media 22g,Cereali,1.0612,0/3
+volatilita,1,Media 22g,Energia,1.3135,0/5
+volatilita,1,Media 22g,Metalli industriali,1.0252,0/1
+volatilita,1,Media 22g,Metalli preziosi,1.2146,0/1
+volatilita,1,Media 22g,Soft e bestiame,1.0674,0/2
+volatilita,1,TimesFM-3,Cereali,0.9939,1/3
+volatilita,1,TimesFM-3,Energia,1.0022,2/5
+volatilita,1,TimesFM-3,Metalli industriali,1.1089,0/1
+volatilita,1,TimesFM-3,Metalli preziosi,0.9648,1/1
+volatilita,1,TimesFM-3,Soft e bestiame,0.9920,1/2
+volatilita,1,Timestral-209M,Cereali,0.9987,1/3
+volatilita,1,Timestral-209M,Energia,1.0165,1/5
+volatilita,1,Timestral-209M,Metalli industriali,1.1143,0/1
+volatilita,1,Timestral-209M,Metalli preziosi,0.9775,1/1
+volatilita,1,Timestral-209M,Soft e bestiame,0.9956,1/2
+volatilita,1,Timestral-28M,Cereali,0.9974,1/3
+volatilita,1,Timestral-28M,Energia,1.0323,1/5
+volatilita,1,Timestral-28M,Metalli industriali,1.1385,0/1
+volatilita,1,Timestral-28M,Metalli preziosi,1.0072,0/1
+volatilita,1,Timestral-28M,Soft e bestiame,1.0013,1/2
+volatilita,5,Chronos-2,Cereali,0.9439,1/3
+volatilita,5,Chronos-2,Energia,1.1133,1/5
+volatilita,5,Chronos-2,Metalli industriali,1.2937,0/1
+volatilita,5,Chronos-2,Metalli preziosi,1.0639,0/1
+volatilita,5,Chronos-2,Soft e bestiame,1.0608,0/2
+volatilita,5,Media 22g,Cereali,1.0963,0/3
+volatilita,5,Media 22g,Energia,1.3061,0/5
+volatilita,5,Media 22g,Metalli industriali,1.0846,0/1
+volatilita,5,Media 22g,Metalli preziosi,1.1015,0/1
+volatilita,5,Media 22g,Soft e bestiame,1.1748,0/2
+volatilita,5,TimesFM-3,Cereali,0.8957,1/3
+volatilita,5,TimesFM-3,Energia,1.0898,1/5
+volatilita,5,TimesFM-3,Metalli industriali,1.1664,0/1
+volatilita,5,TimesFM-3,Metalli preziosi,1.0025,0/1
+volatilita,5,TimesFM-3,Soft e bestiame,1.0135,0/2
+volatilita,5,Timestral-209M,Cereali,0.8726,2/3
+volatilita,5,Timestral-209M,Energia,1.0849,1/5
+volatilita,5,Timestral-209M,Metalli industriali,1.2264,0/1
+volatilita,5,Timestral-209M,Metalli preziosi,0.9904,1/1
+volatilita,5,Timestral-209M,Soft e bestiame,1.0314,0/2
+volatilita,5,Timestral-28M,Cereali,0.8995,1/3
+volatilita,5,Timestral-28M,Energia,1.0944,1/5
+volatilita,5,Timestral-28M,Metalli industriali,1.2012,0/1
+volatilita,5,Timestral-28M,Metalli preziosi,1.0305,0/1
+volatilita,5,Timestral-28M,Soft e bestiame,1.0521,0/2
+volatilita,20,Chronos-2,Cereali,0.7815,3/3
+volatilita,20,Chronos-2,Energia,1.1460,1/5
+volatilita,20,Chronos-2,Metalli industriali,1.7028,0/1
+volatilita,20,Chronos-2,Metalli preziosi,1.1851,0/1
+volatilita,20,Chronos-2,Soft e bestiame,1.1803,0/2
+volatilita,20,Media 22g,Cereali,1.1661,0/3
+volatilita,20,Media 22g,Energia,1.1267,1/5
+volatilita,20,Media 22g,Metalli industriali,1.3606,0/1
+volatilita,20,Media 22g,Metalli preziosi,1.0326,0/1
+volatilita,20,Media 22g,Soft e bestiame,1.3966,0/2
+volatilita,20,TimesFM-3,Cereali,0.7750,3/3
+volatilita,20,TimesFM-3,Energia,1.1645,1/5
+volatilita,20,TimesFM-3,Metalli industriali,1.5830,0/1
+volatilita,20,TimesFM-3,Metalli preziosi,1.1343,0/1
+volatilita,20,TimesFM-3,Soft e bestiame,1.0572,0/2
+volatilita,20,Timestral-209M,Cereali,0.7412,3/3
+volatilita,20,Timestral-209M,Energia,1.1382,1/5
+volatilita,20,Timestral-209M,Metalli industriali,1.5969,0/1
+volatilita,20,Timestral-209M,Metalli preziosi,1.1258,0/1
+volatilita,20,Timestral-209M,Soft e bestiame,1.1352,0/2
+volatilita,20,Timestral-28M,Cereali,0.7497,3/3
+volatilita,20,Timestral-28M,Energia,1.1175,1/5
+volatilita,20,Timestral-28M,Metalli industriali,1.5044,0/1
+volatilita,20,Timestral-28M,Metalli preziosi,1.1588,0/1
+volatilita,20,Timestral-28M,Soft e bestiame,1.1371,0/2

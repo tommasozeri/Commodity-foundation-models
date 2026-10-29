@@ -1,0 +1,201 @@
+compito,h,modello,gruppo,rel,vince
+prezzo,1,ARIMA,2024,1.0158,6/15
+prezzo,1,ARIMA,2025,1.0036,7/15
+prezzo,1,ARIMA,2026,0.9904,10/15
+prezzo,1,Chronos-2,2024,1.0590,2/15
+prezzo,1,Chronos-2,2025,1.1005,1/15
+prezzo,1,Chronos-2,2026,1.0801,4/15
+prezzo,1,ETS,2024,1.0048,7/15
+prezzo,1,ETS,2025,0.9981,8/15
+prezzo,1,ETS,2026,0.9839,10/15
+prezzo,1,TimesFM-3,2024,0.9961,9/15
+prezzo,1,TimesFM-3,2025,0.9980,7/15
+prezzo,1,TimesFM-3,2026,0.9765,11/15
+prezzo,1,Timestral-209M,2024,0.9889,14/15
+prezzo,1,Timestral-209M,2025,0.9901,15/15
+prezzo,1,Timestral-209M,2026,0.9685,13/15
+prezzo,1,Timestral-28M,2024,0.9891,12/15
+prezzo,1,Timestral-28M,2025,0.9900,14/15
+prezzo,1,Timestral-28M,2026,0.9742,14/15
+prezzo,5,ARIMA,2024,1.0118,6/15
+prezzo,5,ARIMA,2025,0.9942,10/15
+prezzo,5,ARIMA,2026,0.9786,11/15
+prezzo,5,Chronos-2,2024,1.0227,2/15
+prezzo,5,Chronos-2,2025,1.0328,5/15
+prezzo,5,Chronos-2,2026,0.9934,8/15
+prezzo,5,ETS,2024,1.0070,5/15
+prezzo,5,ETS,2025,0.9921,11/15
+prezzo,5,ETS,2026,0.9723,13/15
+prezzo,5,TimesFM-3,2024,0.9969,8/15
+prezzo,5,TimesFM-3,2025,0.9990,7/15
+prezzo,5,TimesFM-3,2026,0.9605,12/15
+prezzo,5,Timestral-209M,2024,0.9892,11/15
+prezzo,5,Timestral-209M,2025,0.9914,12/15
+prezzo,5,Timestral-209M,2026,0.9529,15/15
+prezzo,5,Timestral-28M,2024,0.9907,12/15
+prezzo,5,Timestral-28M,2025,0.9929,12/15
+prezzo,5,Timestral-28M,2026,0.9566,15/15
+prezzo,20,ARIMA,2024,0.9978,9/15
+prezzo,20,ARIMA,2025,0.9894,7/15
+prezzo,20,ARIMA,2026,0.9805,12/15
+prezzo,20,Chronos-2,2024,1.0049,9/15
+prezzo,20,Chronos-2,2025,1.0169,8/15
+prezzo,20,Chronos-2,2026,0.9379,13/15
+prezzo,20,ETS,2024,0.9956,9/15
+prezzo,20,ETS,2025,0.9874,9/15
+prezzo,20,ETS,2026,0.9505,12/15
+prezzo,20,TimesFM-3,2024,0.9820,11/15
+prezzo,20,TimesFM-3,2025,0.9842,11/15
+prezzo,20,TimesFM-3,2026,0.9353,12/15
+prezzo,20,Timestral-209M,2024,0.9744,13/15
+prezzo,20,Timestral-209M,2025,0.9874,10/15
+prezzo,20,Timestral-209M,2026,0.9249,15/15
+prezzo,20,Timestral-28M,2024,0.9754,12/15
+prezzo,20,Timestral-28M,2025,0.9806,10/15
+prezzo,20,Timestral-28M,2026,0.9357,14/15
+rendimento,1,Chronos-2,2024,0.9958,10/15
+rendimento,1,Chronos-2,2025,0.9993,7/15
+rendimento,1,Chronos-2,2026,0.9843,13/15
+rendimento,1,EGARCH-t,2024,0.9945,12/15
+rendimento,1,EGARCH-t,2025,0.9988,9/15
+rendimento,1,EGARCH-t,2026,0.9834,14/15
+rendimento,1,GARCH-t,2024,0.9961,10/15
+rendimento,1,GARCH-t,2025,1.0009,8/15
+rendimento,1,GARCH-t,2026,0.9855,13/15
+rendimento,1,GJR-GARCH-t,2024,0.9963,9/15
+rendimento,1,GJR-GARCH-t,2025,1.0003,9/15
+rendimento,1,GJR-GARCH-t,2026,0.9861,13/15
+rendimento,1,TimesFM-3,2024,0.9964,9/15
+rendimento,1,TimesFM-3,2025,0.9977,10/15
+rendimento,1,TimesFM-3,2026,0.9880,12/15
+rendimento,1,Timestral-209M,2024,0.9938,11/15
+rendimento,1,Timestral-209M,2025,0.9957,12/15
+rendimento,1,Timestral-209M,2026,0.9833,14/15
+rendimento,1,Timestral-28M,2024,0.9943,13/15
+rendimento,1,Timestral-28M,2025,0.9961,14/15
+rendimento,1,Timestral-28M,2026,0.9844,13/15
+volatilita,1,Chronos-2,2024,0.9662,8/12
+volatilita,1,Chronos-2,2025,1.0200,4/12
+volatilita,1,Chronos-2,2026,1.0737,2/12
+volatilita,1,Media 22g,2024,1.0394,3/12
+volatilita,1,Media 22g,2025,1.1709,2/12
+volatilita,1,Media 22g,2026,1.2550,0/12
+volatilita,1,TimesFM-3,2024,0.9513,9/12
+volatilita,1,TimesFM-3,2025,0.9888,5/12
+volatilita,1,TimesFM-3,2026,1.0427,3/12
+volatilita,1,Timestral-209M,2024,0.9483,10/12
+volatilita,1,Timestral-209M,2025,0.9930,5/12
+volatilita,1,Timestral-209M,2026,1.0646,3/12
+volatilita,1,Timestral-28M,2024,0.9516,8/12
+volatilita,1,Timestral-28M,2025,1.0077,4/12
+volatilita,1,Timestral-28M,2026,1.0785,3/12
+volatilita,5,Chronos-2,2024,0.8705,9/12
+volatilita,5,Chronos-2,2025,1.0718,3/12
+volatilita,5,Chronos-2,2026,1.1818,1/12
+volatilita,5,Media 22g,2024,1.0430,5/12
+volatilita,5,Media 22g,2025,1.1565,2/12
+volatilita,5,Media 22g,2026,1.3065,0/12
+volatilita,5,TimesFM-3,2024,0.8446,9/12
+volatilita,5,TimesFM-3,2025,1.0248,4/12
+volatilita,5,TimesFM-3,2026,1.1296,3/12
+volatilita,5,Timestral-209M,2024,0.8302,9/12
+volatilita,5,Timestral-209M,2025,1.0280,4/12
+volatilita,5,Timestral-209M,2026,1.1230,3/12
+volatilita,5,Timestral-28M,2024,0.8431,9/12
+volatilita,5,Timestral-28M,2025,1.0430,3/12
+volatilita,5,Timestral-28M,2026,1.1467,2/12
+volatilita,20,Chronos-2,2024,0.7163,8/12
+volatilita,20,Chronos-2,2025,1.0567,5/12
+volatilita,20,Chronos-2,2026,1.3363,2/12
+volatilita,20,Media 22g,2024,1.0020,6/12
+volatilita,20,Media 22g,2025,1.1790,3/12
+volatilita,20,Media 22g,2026,1.3917,3/12
+volatilita,20,TimesFM-3,2024,0.7037,8/12
+volatilita,20,TimesFM-3,2025,0.9775,5/12
+volatilita,20,TimesFM-3,2026,1.3430,1/12
+volatilita,20,Timestral-209M,2024,0.7010,8/12
+volatilita,20,Timestral-209M,2025,0.9959,5/12
+volatilita,20,Timestral-209M,2026,1.3095,1/12
+volatilita,20,Timestral-28M,2024,0.7173,9/12
+volatilita,20,Timestral-28M,2025,0.9922,5/12
+volatilita,20,Timestral-28M,2026,1.2784,1/12
+prezzo,1,ARIMA,vol alta,0.9939,10/15
+prezzo,1,ARIMA,vol bassa,1.0137,4/15
+prezzo,1,Chronos-2,vol alta,1.0888,4/15
+prezzo,1,Chronos-2,vol bassa,1.0885,1/15
+prezzo,1,ETS,vol alta,0.9834,12/15
+prezzo,1,ETS,vol bassa,1.0091,4/15
+prezzo,1,TimesFM-3,vol alta,0.9812,11/15
+prezzo,1,TimesFM-3,vol bassa,0.9980,8/15
+prezzo,1,Timestral-209M,vol alta,0.9740,13/15
+prezzo,1,Timestral-209M,vol bassa,0.9896,14/15
+prezzo,1,Timestral-28M,vol alta,0.9773,14/15
+prezzo,1,Timestral-28M,vol bassa,0.9913,12/15
+prezzo,5,ARIMA,vol alta,0.9865,12/15
+prezzo,5,ARIMA,vol bassa,1.0051,7/15
+prezzo,5,Chronos-2,vol alta,1.0111,6/15
+prezzo,5,Chronos-2,vol bassa,1.0260,6/15
+prezzo,5,ETS,vol alta,0.9800,13/15
+prezzo,5,ETS,vol bassa,1.0021,7/15
+prezzo,5,TimesFM-3,vol alta,0.9725,14/15
+prezzo,5,TimesFM-3,vol bassa,0.9938,12/15
+prezzo,5,Timestral-209M,vol alta,0.9635,14/15
+prezzo,5,Timestral-209M,vol bassa,0.9906,11/15
+prezzo,5,Timestral-28M,vol alta,0.9676,14/15
+prezzo,5,Timestral-28M,vol bassa,0.9924,10/15
+prezzo,20,ARIMA,vol alta,0.9884,10/15
+prezzo,20,ARIMA,vol bassa,0.9906,7/15
+prezzo,20,Chronos-2,vol alta,0.9861,9/15
+prezzo,20,Chronos-2,vol bassa,1.0042,9/15
+prezzo,20,ETS,vol alta,0.9708,13/15
+prezzo,20,ETS,vol bassa,0.9860,9/15
+prezzo,20,TimesFM-3,vol alta,0.9535,12/15
+prezzo,20,TimesFM-3,vol bassa,0.9788,12/15
+prezzo,20,Timestral-209M,vol alta,0.9460,13/15
+prezzo,20,Timestral-209M,vol bassa,0.9834,12/15
+prezzo,20,Timestral-28M,vol alta,0.9520,13/15
+prezzo,20,Timestral-28M,vol bassa,0.9832,12/15
+rendimento,1,Chronos-2,vol alta,0.9890,12/15
+rendimento,1,Chronos-2,vol bassa,0.9974,12/15
+rendimento,1,EGARCH-t,vol alta,0.9876,13/15
+rendimento,1,EGARCH-t,vol bassa,0.9969,14/15
+rendimento,1,GARCH-t,vol alta,0.9909,11/15
+rendimento,1,GARCH-t,vol bassa,0.9970,12/15
+rendimento,1,GJR-GARCH-t,vol alta,0.9909,10/15
+rendimento,1,GJR-GARCH-t,vol bassa,0.9973,12/15
+rendimento,1,TimesFM-3,vol alta,0.9917,11/15
+rendimento,1,TimesFM-3,vol bassa,0.9965,13/15
+rendimento,1,Timestral-209M,vol alta,0.9864,13/15
+rendimento,1,Timestral-209M,vol bassa,0.9958,13/15
+rendimento,1,Timestral-28M,vol alta,0.9880,14/15
+rendimento,1,Timestral-28M,vol bassa,0.9955,13/15
+volatilita,1,Chronos-2,vol alta,1.0151,5/12
+volatilita,1,Chronos-2,vol bassa,1.0310,3/12
+volatilita,1,Media 22g,vol alta,1.2338,1/12
+volatilita,1,Media 22g,vol bassa,1.0732,0/12
+volatilita,1,TimesFM-3,vol alta,0.9864,7/12
+volatilita,1,TimesFM-3,vol bassa,1.0057,5/12
+volatilita,1,Timestral-209M,vol alta,0.9989,6/12
+volatilita,1,Timestral-209M,vol bassa,1.0088,3/12
+volatilita,1,Timestral-28M,vol alta,1.0186,6/12
+volatilita,1,Timestral-28M,vol bassa,1.0107,3/12
+volatilita,5,Chronos-2,vol alta,1.0358,6/12
+volatilita,5,Chronos-2,vol bassa,1.0832,2/12
+volatilita,5,Media 22g,vol alta,1.1991,2/12
+volatilita,5,Media 22g,vol bassa,1.1543,1/12
+volatilita,5,TimesFM-3,vol alta,0.9935,7/12
+volatilita,5,TimesFM-3,vol bassa,1.0322,3/12
+volatilita,5,Timestral-209M,vol alta,0.9828,7/12
+volatilita,5,Timestral-209M,vol bassa,1.0379,3/12
+volatilita,5,Timestral-28M,vol alta,1.0085,7/12
+volatilita,5,Timestral-28M,vol bassa,1.0500,3/12
+volatilita,20,Chronos-2,vol alta,0.9993,6/12
+volatilita,20,Chronos-2,vol bassa,1.1603,2/12
+volatilita,20,Media 22g,vol alta,1.0774,5/12
+volatilita,20,Media 22g,vol bassa,1.3400,2/12
+volatilita,20,TimesFM-3,vol alta,0.9998,6/12
+volatilita,20,TimesFM-3,vol bassa,1.0993,2/12
+volatilita,20,Timestral-209M,vol alta,0.9624,6/12
+volatilita,20,Timestral-209M,vol bassa,1.1283,2/12
+volatilita,20,Timestral-28M,vol alta,0.9760,6/12
+volatilita,20,Timestral-28M,vol bassa,1.1069,3/12

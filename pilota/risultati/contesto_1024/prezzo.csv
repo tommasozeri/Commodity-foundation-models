@@ -1,0 +1,181 @@
+asset,settore,h,modello,n,MAE/RW,CRPS/RW,DM p (CRPS),DM stat,direzione,cop80,cop80 RW,in MCS
+WTI,Energia,1,Timestral-28M,708,0.9990,0.9697,0.0011,-3.2784,0.5332,0.8051,0.7712,True
+WTI,Energia,1,Timestral-209M,708,1.0020,0.9713,0.0008,-3.3522,0.5106,0.8051,0.7712,True
+WTI,Energia,1,TimesFM-3,708,1.0065,0.9776,0.0514,-1.9517,0.4979,0.8178,0.7712,True
+WTI,Energia,1,Random walk,708,1.0000,1.0000,,,,0.7712,,False
+WTI,Energia,5,Timestral-28M,704,0.9956,0.9503,0.0004,-3.5793,0.4986,0.8125,0.7543,True
+WTI,Energia,5,Timestral-209M,704,0.9976,0.9509,0.0002,-3.8115,0.5199,0.7969,0.7543,True
+WTI,Energia,5,TimesFM-3,704,1.0067,0.9612,0.0291,-2.1871,0.4801,0.8153,0.7543,True
+WTI,Energia,5,Random walk,704,1.0000,1.0000,,,,0.7543,,False
+WTI,Energia,20,Timestral-28M,689,1.0150,0.9712,0.4507,-0.7548,0.3890,0.8708,0.7910,True
+WTI,Energia,20,Timestral-209M,689,1.0126,0.9689,0.3722,-0.8929,0.4267,0.8505,0.7910,True
+WTI,Energia,20,TimesFM-3,689,1.0534,1.0002,0.9958,0.0053,0.4238,0.8331,0.7910,True
+WTI,Energia,20,Random walk,689,1.0000,1.0000,,,,0.7910,,True
+Brent,Energia,1,Timestral-28M,708,1.0030,0.9648,0.0005,-3.5010,0.5319,0.8220,0.7641,True
+Brent,Energia,1,Timestral-209M,708,1.0056,0.9675,0.0006,-3.4591,0.5021,0.8150,0.7641,True
+Brent,Energia,1,TimesFM-3,708,1.0121,0.9723,0.0211,-2.3112,0.5021,0.8178,0.7641,True
+Brent,Energia,1,Random walk,708,1.0000,1.0000,,,,0.7641,,False
+Brent,Energia,5,Timestral-28M,704,1.0013,0.9628,0.0070,-2.7065,0.4979,0.8239,0.7557,True
+Brent,Energia,5,Timestral-209M,704,1.0009,0.9605,0.0023,-3.0578,0.5250,0.8040,0.7557,True
+Brent,Energia,5,TimesFM-3,704,1.0261,0.9821,0.2755,-1.0912,0.4979,0.8295,0.7557,False
+Brent,Energia,5,Random walk,704,1.0000,1.0000,,,,0.7557,,False
+Brent,Energia,20,Timestral-28M,689,1.0154,0.9747,0.5673,-0.5723,0.4396,0.8563,0.7518,True
+Brent,Energia,20,Timestral-209M,689,1.0132,0.9727,0.4895,-0.6915,0.4512,0.8287,0.7518,True
+Brent,Energia,20,TimesFM-3,689,1.0818,1.0200,0.6873,0.4027,0.4119,0.8142,0.7518,True
+Brent,Energia,20,Random walk,689,1.0000,1.0000,,,,0.7518,,True
+Gasolio,Energia,1,Timestral-28M,708,1.0082,0.9652,0.0008,-3.3629,0.4944,0.8065,0.7528,True
+Gasolio,Energia,1,Timestral-209M,708,1.0092,0.9638,0.0003,-3.6446,0.4506,0.8051,0.7528,True
+Gasolio,Energia,1,TimesFM-3,708,1.0096,0.9680,0.0027,-3.0103,0.4746,0.8023,0.7528,True
+Gasolio,Energia,1,Random walk,708,1.0000,1.0000,,,,0.7528,,False
+Gasolio,Energia,5,Timestral-28M,704,1.0138,0.9842,0.3234,-0.9881,0.4716,0.8210,0.7486,True
+Gasolio,Energia,5,Timestral-209M,704,1.0123,0.9826,0.2174,-1.2347,0.4560,0.8068,0.7486,True
+Gasolio,Energia,5,TimesFM-3,704,1.0337,0.9997,0.9846,-0.0193,0.4474,0.7955,0.7486,False
+Gasolio,Energia,5,Random walk,704,1.0000,1.0000,,,,0.7486,,True
+Gasolio,Energia,20,Timestral-28M,689,1.0071,0.9830,0.5189,-0.6453,0.5138,0.8287,0.7286,True
+Gasolio,Energia,20,Timestral-209M,689,1.0129,0.9845,0.5472,-0.6023,0.5327,0.8070,0.7286,True
+Gasolio,Energia,20,TimesFM-3,689,1.0270,0.9990,0.9793,-0.0259,0.5080,0.7997,0.7286,True
+Gasolio,Energia,20,Random walk,689,1.0000,1.0000,,,,0.7286,,True
+Benzina,Energia,1,Timestral-28M,708,1.0024,0.9732,0.0007,-3.3931,0.4851,0.8362,0.7669,True
+Benzina,Energia,1,Timestral-209M,708,1.0006,0.9726,0.0000,-4.1763,0.4908,0.8206,0.7669,True
+Benzina,Energia,1,TimesFM-3,708,1.0140,0.9847,0.1057,-1.6197,0.4866,0.8178,0.7669,False
+Benzina,Energia,1,Random walk,708,1.0000,1.0000,,,,0.7669,,False
+Benzina,Energia,5,Timestral-28M,704,1.0038,0.9658,0.0032,-2.9597,0.4744,0.8395,0.7741,True
+Benzina,Energia,5,Timestral-209M,704,0.9996,0.9631,0.0003,-3.6145,0.4844,0.8097,0.7741,True
+Benzina,Energia,5,TimesFM-3,704,1.0144,0.9821,0.3052,-1.0262,0.5256,0.8295,0.7741,True
+Benzina,Energia,5,Random walk,704,1.0000,1.0000,,,,0.7741,,False
+Benzina,Energia,20,Timestral-28M,689,1.0087,0.9566,0.0764,-1.7745,0.5109,0.8592,0.7271,True
+Benzina,Energia,20,Timestral-209M,689,1.0012,0.9466,0.0254,-2.2405,0.4557,0.8505,0.7271,True
+Benzina,Energia,20,TimesFM-3,689,1.1044,1.0381,0.5136,0.6536,0.4862,0.8215,0.7271,True
+Benzina,Energia,20,Random walk,689,1.0000,1.0000,,,,0.7271,,True
+Gas naturale,Energia,1,Timestral-28M,708,1.0059,0.9809,0.0220,-2.2959,0.5141,0.8093,0.7980,True
+Gas naturale,Energia,1,Timestral-209M,708,1.0037,0.9760,0.0003,-3.6150,0.4661,0.8277,0.7980,True
+Gas naturale,Energia,1,TimesFM-3,708,1.0106,0.9853,0.0409,-2.0487,0.4562,0.8065,0.7980,False
+Gas naturale,Energia,1,Random walk,708,1.0000,1.0000,,,,0.7980,,False
+Gas naturale,Energia,5,Timestral-28M,704,1.0116,0.9694,0.0524,-1.9435,0.4671,0.7940,0.7770,True
+Gas naturale,Energia,5,Timestral-209M,704,1.0027,0.9643,0.0075,-2.6811,0.4529,0.8082,0.7770,True
+Gas naturale,Energia,5,TimesFM-3,704,1.0275,0.9854,0.2610,-1.1249,0.4500,0.7997,0.7770,False
+Gas naturale,Energia,5,Random walk,704,1.0000,1.0000,,,,0.7770,,False
+Gas naturale,Energia,20,Timestral-28M,689,1.0113,0.9461,0.0685,-1.8248,0.5436,0.8462,0.7721,True
+Gas naturale,Energia,20,Timestral-209M,689,1.0029,0.9394,0.0223,-2.2902,0.4884,0.8374,0.7721,True
+Gas naturale,Energia,20,TimesFM-3,689,1.0220,0.9615,0.0923,-1.6858,0.5058,0.8418,0.7721,True
+Gas naturale,Energia,20,Random walk,689,1.0000,1.0000,,,,0.7721,,False
+Oro,Metalli preziosi,1,Timestral-28M,708,1.0075,0.9898,0.2668,-1.1114,0.4972,0.7966,0.6864,True
+Oro,Metalli preziosi,1,Timestral-209M,708,1.0164,0.9989,0.9043,-0.1203,0.4476,0.7444,0.6864,True
+Oro,Metalli preziosi,1,TimesFM-3,708,1.0187,1.0005,0.9541,0.0576,0.4844,0.7994,0.6864,True
+Oro,Metalli preziosi,1,Random walk,708,1.0000,1.0000,,,,0.6864,,True
+Oro,Metalli preziosi,5,Timestral-28M,704,1.0085,0.9990,0.9561,-0.0551,0.4460,0.7514,0.6705,True
+Oro,Metalli preziosi,5,Timestral-209M,704,1.0033,0.9952,0.7998,-0.2537,0.4517,0.7656,0.6705,True
+Oro,Metalli preziosi,5,TimesFM-3,704,1.0047,0.9946,0.7465,-0.3233,0.4830,0.8011,0.6705,True
+Oro,Metalli preziosi,5,Random walk,704,1.0000,1.0000,,,,0.6705,,True
+Oro,Metalli preziosi,20,Timestral-28M,689,1.0201,1.0387,0.4553,0.7471,0.4702,0.6734,0.6154,True
+Oro,Metalli preziosi,20,Timestral-209M,689,1.0065,1.0220,0.7108,0.3709,0.5660,0.6952,0.6154,True
+Oro,Metalli preziosi,20,TimesFM-3,689,1.0379,1.0499,0.2988,1.0398,0.4093,0.7373,0.6154,True
+Oro,Metalli preziosi,20,Random walk,689,1.0000,1.0000,,,,0.6154,,True
+Argento,Metalli preziosi,1,Timestral-28M,708,1.0162,0.9404,0.0001,-3.8644,0.4788,0.7952,0.7203,True
+Argento,Metalli preziosi,1,Timestral-209M,708,1.0070,0.9355,0.0000,-4.4109,0.4944,0.7867,0.7203,True
+Argento,Metalli preziosi,1,TimesFM-3,708,1.0189,0.9362,0.0004,-3.5497,0.4845,0.8150,0.7203,True
+Argento,Metalli preziosi,1,Random walk,708,1.0000,1.0000,,,,0.7203,,False
+Argento,Metalli preziosi,5,Timestral-28M,704,1.0260,0.9431,0.0332,-2.1339,0.4302,0.7741,0.7088,True
+Argento,Metalli preziosi,5,Timestral-209M,704,1.0129,0.9360,0.0150,-2.4380,0.4801,0.7699,0.7088,True
+Argento,Metalli preziosi,5,TimesFM-3,704,1.0310,0.9475,0.0766,-1.7732,0.4558,0.8125,0.7088,True
+Argento,Metalli preziosi,5,Random walk,704,1.0000,1.0000,,,,0.7088,,False
+Argento,Metalli preziosi,20,Timestral-28M,689,1.0146,0.9532,0.3319,-0.9709,0.4470,0.7417,0.6473,False
+Argento,Metalli preziosi,20,Timestral-209M,689,1.0071,0.9408,0.2419,-1.1713,0.4993,0.7358,0.6473,True
+Argento,Metalli preziosi,20,TimesFM-3,689,1.0176,0.9511,0.3682,-0.9004,0.4557,0.7634,0.6473,True
+Argento,Metalli preziosi,20,Random walk,689,1.0000,1.0000,,,,0.6473,,True
+Rame,Metalli industriali,1,Timestral-28M,708,1.0035,0.9911,0.2329,-1.1941,0.4915,0.8347,0.7486,True
+Rame,Metalli industriali,1,Timestral-209M,708,0.9960,0.9850,0.0033,-2.9506,0.5142,0.8121,0.7486,True
+Rame,Metalli industriali,1,TimesFM-3,708,1.0110,0.9951,0.5890,-0.5406,0.4901,0.8065,0.7486,True
+Rame,Metalli industriali,1,Random walk,708,1.0000,1.0000,,,,0.7486,,False
+Rame,Metalli industriali,5,Timestral-28M,704,0.9958,0.9998,0.9890,-0.0137,0.5170,0.7812,0.7173,True
+Rame,Metalli industriali,5,Timestral-209M,704,0.9924,0.9937,0.5848,-0.5467,0.5341,0.7827,0.7173,True
+Rame,Metalli industriali,5,TimesFM-3,704,1.0066,1.0078,0.6940,0.3936,0.4986,0.8111,0.7173,True
+Rame,Metalli industriali,5,Random walk,704,1.0000,1.0000,,,,0.7173,,True
+Rame,Metalli industriali,20,Timestral-28M,689,0.9902,0.9868,0.7566,-0.3101,0.4767,0.7707,0.7228,True
+Rame,Metalli industriali,20,Timestral-209M,689,0.9976,0.9965,0.9252,-0.0939,0.5145,0.7750,0.7228,True
+Rame,Metalli industriali,20,TimesFM-3,689,1.0180,1.0089,0.8876,0.1414,0.4331,0.7489,0.7228,True
+Rame,Metalli industriali,20,Random walk,689,1.0000,1.0000,,,,0.7228,,True
+Grano,Cereali,1,Timestral-28M,707,0.9998,0.9898,0.1006,-1.6442,0.5334,0.8331,0.8048,False
+Grano,Cereali,1,Timestral-209M,707,0.9926,0.9794,0.0004,-3.5448,0.5407,0.8402,0.8048,True
+Grano,Cereali,1,TimesFM-3,707,0.9997,0.9879,0.1182,-1.5644,0.5233,0.8416,0.8048,False
+Grano,Cereali,1,Random walk,707,1.0000,1.0000,,,,0.8048,,False
+Grano,Cereali,5,Timestral-28M,703,0.9949,0.9702,0.0176,-2.3789,0.5380,0.8393,0.7781,True
+Grano,Cereali,5,Timestral-209M,703,0.9947,0.9664,0.0041,-2.8776,0.5495,0.8435,0.7781,True
+Grano,Cereali,5,TimesFM-3,703,0.9883,0.9592,0.0161,-2.4115,0.5567,0.8336,0.7781,True
+Grano,Cereali,5,Random walk,703,1.0000,1.0000,,,,0.7781,,False
+Grano,Cereali,20,Timestral-28M,688,0.9739,0.9238,0.0362,-2.0989,0.5854,0.8401,0.7442,False
+Grano,Cereali,20,Timestral-209M,688,0.9812,0.9255,0.0217,-2.3010,0.5854,0.8285,0.7442,False
+Grano,Cereali,20,TimesFM-3,688,0.9456,0.8977,0.0248,-2.2496,0.5693,0.8183,0.7442,True
+Grano,Cereali,20,Random walk,688,1.0000,1.0000,,,,0.7442,,False
+Mais,Cereali,1,Timestral-28M,707,1.0055,0.9989,0.8180,-0.2303,0.4864,0.8444,0.8204,True
+Mais,Cereali,1,Timestral-209M,707,1.0033,0.9947,0.2251,-1.2142,0.4735,0.8430,0.8204,True
+Mais,Cereali,1,TimesFM-3,707,1.0065,1.0059,0.3109,1.0140,0.4864,0.8119,0.8204,False
+Mais,Cereali,1,Random walk,707,1.0000,1.0000,,,,0.8204,,True
+Mais,Cereali,5,Timestral-28M,703,1.0026,0.9817,0.0248,-2.2496,0.4914,0.8265,0.7553,True
+Mais,Cereali,5,Timestral-209M,703,1.0023,0.9788,0.0097,-2.5935,0.4626,0.8250,0.7553,True
+Mais,Cereali,5,TimesFM-3,703,1.0157,0.9883,0.1926,-1.3042,0.4756,0.8094,0.7553,True
+Mais,Cereali,5,Random walk,703,1.0000,1.0000,,,,0.7553,,False
+Mais,Cereali,20,Timestral-28M,688,1.0081,0.9496,0.1321,-1.5079,0.3985,0.7863,0.7645,True
+Mais,Cereali,20,Timestral-209M,688,1.0079,0.9484,0.1374,-1.4873,0.3781,0.7791,0.7645,True
+Mais,Cereali,20,TimesFM-3,688,1.0126,0.9621,0.2139,-1.2440,0.4540,0.7645,0.7645,True
+Mais,Cereali,20,Random walk,688,1.0000,1.0000,,,,0.7645,,True
+Soia,Cereali,1,Timestral-28M,707,1.0092,1.0072,0.1408,1.4744,0.4692,0.8317,0.8317,True
+Soia,Cereali,1,Timestral-209M,707,1.0031,1.0026,0.5602,0.5829,0.4936,0.8331,0.8317,True
+Soia,Cereali,1,TimesFM-3,707,1.0082,1.0075,0.1820,1.3360,0.4979,0.8246,0.8317,True
+Soia,Cereali,1,Random walk,707,1.0000,1.0000,,,,0.8317,,True
+Soia,Cereali,5,Timestral-28M,703,1.0020,0.9940,0.5898,-0.5394,0.4929,0.8279,0.8037,True
+Soia,Cereali,5,Timestral-209M,703,1.0027,0.9932,0.5477,-0.6015,0.4900,0.8250,0.8037,True
+Soia,Cereali,5,TimesFM-3,703,1.0023,0.9936,0.5570,-0.5875,0.5286,0.8279,0.8037,True
+Soia,Cereali,5,Random walk,703,1.0000,1.0000,,,,0.8037,,True
+Soia,Cereali,20,Timestral-28M,688,1.0049,0.9752,0.5417,-0.6105,0.4884,0.8125,0.7689,True
+Soia,Cereali,20,Timestral-209M,688,1.0046,0.9743,0.5403,-0.6127,0.4724,0.7849,0.7689,True
+Soia,Cereali,20,TimesFM-3,688,1.0353,1.0036,0.9208,0.0995,0.4826,0.7718,0.7689,True
+Soia,Cereali,20,Random walk,688,1.0000,1.0000,,,,0.7689,,True
+Caffe,Soft e bestiame,1,Timestral-28M,708,1.0007,0.9888,0.0532,-1.9368,0.5099,0.7867,0.7486,True
+Caffe,Soft e bestiame,1,Timestral-209M,708,0.9999,0.9888,0.0292,-2.1853,0.5127,0.7853,0.7486,True
+Caffe,Soft e bestiame,1,TimesFM-3,708,1.0102,0.9952,0.5025,-0.6710,0.5071,0.8065,0.7486,True
+Caffe,Soft e bestiame,1,Random walk,708,1.0000,1.0000,,,,0.7486,,False
+Caffe,Soft e bestiame,5,Timestral-28M,704,0.9995,0.9871,0.2621,-1.1223,0.4929,0.7443,0.7173,True
+Caffe,Soft e bestiame,5,Timestral-209M,704,1.0021,0.9875,0.2215,-1.2235,0.4872,0.7571,0.7173,True
+Caffe,Soft e bestiame,5,TimesFM-3,704,1.0007,0.9888,0.3918,-0.8569,0.5342,0.7869,0.7173,True
+Caffe,Soft e bestiame,5,Random walk,704,1.0000,1.0000,,,,0.7173,,True
+Caffe,Soft e bestiame,20,Timestral-28M,689,1.0063,0.9791,0.5713,-0.5665,0.4804,0.7300,0.6633,True
+Caffe,Soft e bestiame,20,Timestral-209M,689,1.0046,0.9773,0.4967,-0.6800,0.4731,0.7271,0.6633,True
+Caffe,Soft e bestiame,20,TimesFM-3,689,1.0052,0.9909,0.8333,-0.2105,0.4572,0.7649,0.6633,True
+Caffe,Soft e bestiame,20,Random walk,689,1.0000,1.0000,,,,0.6633,,True
+Zucchero,Soft e bestiame,1,Timestral-28M,708,0.9993,0.9938,0.1355,-1.4946,0.4879,0.8249,0.8305,True
+Zucchero,Soft e bestiame,1,Timestral-209M,708,1.0019,0.9950,0.2663,-1.1126,0.5050,0.7980,0.8305,True
+Zucchero,Soft e bestiame,1,TimesFM-3,708,1.0118,1.0024,0.7015,0.3835,0.4864,0.7867,0.8305,True
+Zucchero,Soft e bestiame,1,Random walk,708,1.0000,1.0000,,,,0.8305,,True
+Zucchero,Soft e bestiame,5,Timestral-28M,704,1.0030,0.9947,0.5307,-0.6272,0.4828,0.7912,0.8097,True
+Zucchero,Soft e bestiame,5,Timestral-209M,704,1.0052,0.9965,0.6928,-0.3952,0.4511,0.7756,0.8097,True
+Zucchero,Soft e bestiame,5,TimesFM-3,704,1.0208,1.0114,0.4534,0.7501,0.5072,0.7472,0.8097,True
+Zucchero,Soft e bestiame,5,Random walk,704,1.0000,1.0000,,,,0.8097,,True
+Zucchero,Soft e bestiame,20,Timestral-28M,689,1.0195,0.9814,0.5820,-0.5507,0.4136,0.8070,0.7707,True
+Zucchero,Soft e bestiame,20,Timestral-209M,689,1.0142,0.9779,0.4906,-0.6897,0.4282,0.7663,0.7707,True
+Zucchero,Soft e bestiame,20,TimesFM-3,689,1.0755,1.0396,0.5430,0.6086,0.5341,0.7286,0.7707,True
+Zucchero,Soft e bestiame,20,Random walk,689,1.0000,1.0000,,,,0.7707,,True
+Cacao,Soft e bestiame,1,Timestral-28M,708,1.0068,0.9642,0.0001,-3.9655,0.4950,0.8192,0.7486,True
+Cacao,Soft e bestiame,1,Timestral-209M,708,1.0106,0.9626,0.0000,-4.3292,0.4681,0.7726,0.7486,True
+Cacao,Soft e bestiame,1,TimesFM-3,708,1.0140,0.9675,0.0015,-3.1933,0.4965,0.7712,0.7486,True
+Cacao,Soft e bestiame,1,Random walk,708,1.0000,1.0000,,,,0.7486,,False
+Cacao,Soft e bestiame,5,Timestral-28M,704,1.0096,0.9636,0.0139,-2.4664,0.4673,0.7756,0.7514,True
+Cacao,Soft e bestiame,5,Timestral-209M,704,1.0079,0.9599,0.0086,-2.6364,0.4773,0.7557,0.7514,True
+Cacao,Soft e bestiame,5,TimesFM-3,704,1.0236,0.9727,0.1849,-1.3273,0.4886,0.7429,0.7514,True
+Cacao,Soft e bestiame,5,Random walk,704,1.0000,1.0000,,,,0.7514,,False
+Cacao,Soft e bestiame,20,Timestral-28M,689,1.0318,0.9447,0.1180,-1.5651,0.4209,0.7388,0.6938,True
+Cacao,Soft e bestiame,20,Timestral-209M,689,1.0259,0.9408,0.1127,-1.5883,0.4456,0.7068,0.6938,True
+Cacao,Soft e bestiame,20,TimesFM-3,689,1.0131,0.9256,0.1393,-1.4803,0.4514,0.7039,0.6938,True
+Cacao,Soft e bestiame,20,Random walk,689,1.0000,1.0000,,,,0.6938,,True
+Bestiame,Soft e bestiame,1,Timestral-28M,707,1.0012,1.0011,0.8585,0.1783,0.5451,0.8062,0.7709,True
+Bestiame,Soft e bestiame,1,Timestral-209M,707,0.9950,0.9976,0.6567,-0.4447,0.5565,0.7624,0.7709,True
+Bestiame,Soft e bestiame,1,TimesFM-3,707,0.9945,1.0013,0.8351,0.2082,0.5408,0.7553,0.7709,True
+Bestiame,Soft e bestiame,1,Random walk,707,1.0000,1.0000,,,,0.7709,,True
+Bestiame,Soft e bestiame,5,Timestral-28M,703,0.9831,0.9939,0.5348,-0.6210,0.5906,0.7468,0.7468,True
+Bestiame,Soft e bestiame,5,Timestral-209M,703,0.9776,0.9913,0.3063,-1.0238,0.5906,0.7482,0.7468,True
+Bestiame,Soft e bestiame,5,TimesFM-3,703,0.9738,0.9957,0.8293,-0.2157,0.6234,0.7397,0.7468,True
+Bestiame,Soft e bestiame,5,Random walk,703,1.0000,1.0000,,,,0.7468,,True
+Bestiame,Soft e bestiame,20,Timestral-28M,688,0.9705,0.9671,0.3126,-1.0106,0.5901,0.8154,0.7398,True
+Bestiame,Soft e bestiame,20,Timestral-209M,688,0.9712,0.9643,0.1849,-1.3271,0.5887,0.8285,0.7398,True
+Bestiame,Soft e bestiame,20,TimesFM-3,688,0.9679,0.9823,0.7691,-0.2937,0.6061,0.6730,0.7398,True
+Bestiame,Soft e bestiame,20,Random walk,688,1.0000,1.0000,,,,0.7398,,True

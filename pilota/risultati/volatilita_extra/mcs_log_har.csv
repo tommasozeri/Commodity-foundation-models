@@ -1,0 +1,11 @@
+modello,in MCS
+HAR,33/36
+Log-HAR,25/36
+Timestral-28M,30/36
+Timestral-209M,33/36
+TimesFM-3,33/36
+Chronos-2,26/36
+Timestral-28M + Log-HAR,30/36
+Timestral-209M + Log-HAR,36/36
+TimesFM-3 + Log-HAR,34/36
+Chronos-2 + Log-HAR,33/36

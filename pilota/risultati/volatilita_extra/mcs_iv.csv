@@ -1,0 +1,10 @@
+modello,in MCS
+Log-HAR-X,12/15
+Timestral-28M + IV,14/15
+Timestral-209M + IV,15/15
+TimesFM-3 + IV,10/15
+Chronos-2 + IV,6/15
+Timestral-28M + IV + Log-HAR-X,14/15
+Timestral-209M + IV + Log-HAR-X,15/15
+TimesFM-3 + IV + Log-HAR-X,14/15
+Chronos-2 + IV + Log-HAR-X,13/15
